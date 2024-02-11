@@ -1,0 +1,19 @@
+{
+  "name": "regular-invest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.1.2",
+    "yahoo-finance2": "^2.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.17"
+  }
+}
